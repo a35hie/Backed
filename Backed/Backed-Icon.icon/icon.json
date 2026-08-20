@@ -23,15 +23,14 @@
       },
       "translucency" : {
         "enabled" : true,
-        "value" : 0.8
+        "value" : 0.65
       }
     },
     {
       "layers" : [
         {
-          "fill" : "none",
-          "image-name" : "macbook.svg",
-          "name" : "macbook"
+          "image-name" : "macbook 2.svg",
+          "name" : "macbook 2"
         }
       ],
       "opacity" : 0.6,
